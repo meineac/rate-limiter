@@ -198,3 +198,7 @@ pytest tests/test_admin.py -v
 pytest tests/test_check.py -v
 pytest tests/test_algorithms.py -v
 ```
+
+---
+
+[Link to the deployed](https://rate-limiter-app-lvqy.onrender.com/)
